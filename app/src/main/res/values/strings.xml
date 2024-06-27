@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="alert_invalid_email">Email is not correct</string>
+    <string name="nameNone">Don\'t let the name fill blank!</string>
+    <string name="passMustbe">The password must be at least 8 characters.</string>
+    <string name="title_signup_page">Please complete filling your data</string>
+    <string name="name">Name</string>
+    <string name="email">Your email</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign up</string>
+    <string name="contentalertdialog">You are good to go!</string>
+    <string name="title_login_page">Are you prepared to enhance your skills?</string>
+    <string name="message_login_page">Please insert your data!</string>
+    <string name="login">Login</string>
+    <string name="home">Main page</string>
+    <string name="add">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="date">Date</string>
+    <string name="profilename">Profil name</string>
+    <string name="description">This is the description of the story</string>
+    <string name="message_welcome_page">Lets check news about sports</string>
+    <string name="title_welcome_page">Welcome sport lovers!</string>
+    <string name="kamera">Camera</string>
+    <string name="galeri">Gallery</string>
+    <string name="inputdescription">Input the Description of the Story</string>
+    <string name="upload">Send story</string>
+    <string name="fab_icon_description">Add new item</string>
+
+
+
+
+</resources>

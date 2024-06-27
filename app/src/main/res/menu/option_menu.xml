@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/action_home"
+            android:title="@string/home"
+            android:icon="@drawable/ic_home_filled" />
+
+        <item
+            android:id="@+id/action_add"
+            android:title="@string/add"
+            android:enabled="true"/>
+
+
+        <item
+            android:id="@+id/logoutmenu"
+            android:title="@string/logout"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_logout" />
+    </group>
+
+</menu>
